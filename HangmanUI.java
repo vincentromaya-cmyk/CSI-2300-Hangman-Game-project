@@ -29,7 +29,8 @@ public class HangmanUI extends JFrame {
 
     private final String[] words = {
         "computer", "programming", "java",
-        "keyboard", "software", "hangman", "bug", "variable", "function", "loop", "string", "array", "list"
+        "keyboard", "software", "hangman", "bug", "variable", "function", "loop", "string", "array", "list", "operator",
+        "boolean", "public", "protected", "privated"
     };
 
     public HangmanUI() {
